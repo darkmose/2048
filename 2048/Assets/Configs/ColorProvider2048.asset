@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63aea5f96cfaded44bde8fde2cc486b0, type: 3}
+  m_Name: ColorProvider2048
+  m_EditorClassIdentifier: 
+  baseColorMappings:
+  - value: 2
+    color: {r: 0.933, g: 0.894, b: 0.855, a: 1}
+  - value: 4
+    color: {r: 0.929, g: 0.878, b: 0.784, a: 1}
+  - value: 8
+    color: {r: 0.949, g: 0.694, b: 0.475, a: 1}
+  - value: 16
+    color: {r: 0.961, g: 0.584, b: 0.388, a: 1}
+  - value: 32
+    color: {r: 0.965, g: 0.486, b: 0.373, a: 1}
+  - value: 64
+    color: {r: 0.965, g: 0.369, b: 0.231, a: 1}
+  - value: 128
+    color: {r: 0.7830189, g: 0.6165273, b: 0.41736382, a: 1}
+  - value: 256
+    color: {r: 1, g: 0.840867, b: 0.6462264, a: 1}
+  - value: 512
+    color: {r: 1, g: 0.8789438, b: 0.4292453, a: 1}
+  - value: 1024
+    color: {r: 1, g: 0.91867274, b: 0.6462264, a: 1}
+  - value: 2048
+    color: {r: 0.929, g: 0.761, b: 0.18, a: 1}
